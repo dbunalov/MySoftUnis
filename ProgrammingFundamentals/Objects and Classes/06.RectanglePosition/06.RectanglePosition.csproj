@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3451C34C-A3DB-496D-8569-EC55C2BCF0FF}</ProjectGuid>
+    <ProjectGuid>{14385714-466A-46B4-B38C-F5873AF99F37}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_04.DistancebetweenPoints</RootNamespace>
-    <AssemblyName>04.DistancebetweenPoints</AssemblyName>
+    <RootNamespace>_06.RectanglePosition</RootNamespace>
+    <AssemblyName>06.RectanglePosition</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DistanceBetweenPoints.cs" />
+    <Compile Include="RectanglePosition.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
